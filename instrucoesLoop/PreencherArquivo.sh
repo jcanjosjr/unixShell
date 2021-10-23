@@ -8,7 +8,7 @@
 # Descrição: Baseado em informações do usuário, o script cria   #
 #            um arquivo texto de determinado tamanho.           #
 #                                                               #
-# Exemplo de uso: ./MonitoraProcesso.sh                         #
+# Exemplo de uso: ./PreencherArquivo.sh                         #
 #                                                               #
 #################################################################
 
